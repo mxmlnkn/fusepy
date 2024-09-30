@@ -14,7 +14,8 @@ fusepy requires FUSE 2.6 (or later) and runs on:
 
 See some examples of how you can use fusepy:
 
----------------------------------+-----------------------------
+Example                          | Description
+---------------------------------|-----------------------------
 [memory](examples/memory.py)     | A simple memory filesystem
 [loopback](examples/loopback.py) | A loopback filesystem
 [context](examples/context.py)   | Sample usage of fuse_get_context()
